@@ -17,5 +17,7 @@ public class C {
     }
     public void MC3() {
     System.out.println("Método MC3 executado");
+
+// Colocando isso aqui para causar conflito com o git web
 }
 }
