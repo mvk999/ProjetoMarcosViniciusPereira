@@ -15,4 +15,7 @@ public class B {
     public void MB2() {
         System.out.println("Método MB2 executado");
     }
+    public void MB3() {
+    System.out.println("Método MB3 executado");
+}
 }

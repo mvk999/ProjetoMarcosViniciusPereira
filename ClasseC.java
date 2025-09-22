@@ -15,4 +15,7 @@ public class C {
     public void MC2() {
         System.out.println("Método MC2 executado");
     }
+    public void MC3() {
+    System.out.println("Método MC3 executado");
+}
 }
