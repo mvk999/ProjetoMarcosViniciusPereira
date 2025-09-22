@@ -1,3 +1,5 @@
+//Alterei aqui pra causar conflito
+
 public class C {
     private String C1;
     private int C2;
